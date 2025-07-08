@@ -1,0 +1,18 @@
+#grandParent {
+    /* background-color: black; */
+    padding: 20px; 
+    border: 2px solid red;
+    width: 300px;
+}
+#parent {
+    /* background-color: cadetblue; */
+    padding: 20px ;
+    border: 2px solid blue ;
+    width: 200px;
+}
+#child {
+    /* background-color: aquamarine; */
+    border: 2px solid rgb(93, 255, 93);
+    padding: 20px ;
+    width: 100px;
+}
